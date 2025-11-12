@@ -3,9 +3,9 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
 </p>
 
-# I’m Muzamil Ahmed Bhayo from Pakistan...
+# I’m Muzamil Ahmed Bhayo...
 
-<h3 align="center">A passionate Artificial Intelligence Engineer from Pakistan.</h3>
+<h3 align="left">A passionate Artificial Intelligence Engineer from Pakistan.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muzamil-ahmed-bhayo&label=Profile%20views&color=0e75b6&style=flat" alt="muzamil-ahmed-bhayo" /> </p>
 
