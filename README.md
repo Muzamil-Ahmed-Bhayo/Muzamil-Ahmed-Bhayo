@@ -3,7 +3,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
 </p>
 
-# Hi, I’m Muzamil Ahmed Bhayo from Pakistan...
+# I’m Muzamil Ahmed Bhayo from Pakistan...
 
 <h3 align="center">A passionate Artificial Intelligence Engineer from Pakistan.</h3>
 
