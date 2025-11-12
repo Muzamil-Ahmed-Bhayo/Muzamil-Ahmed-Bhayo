@@ -48,3 +48,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muzamil-ahmed-bhayo&show_icons=true&locale=en&layout=compact" alt="muzamil-ahmed-bhayo" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muzamil-ahmed-bhayo&show_icons=true&locale=en" alt="muzamil-ahmed-bhayo" /></p>
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/muzamilahmed26?theme=unicorn)
