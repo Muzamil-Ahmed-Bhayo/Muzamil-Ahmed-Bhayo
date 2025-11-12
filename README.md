@@ -49,4 +49,32 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muzamil-ahmed-bhayo&show_icons=true&locale=en" alt="muzamil-ahmed-bhayo" /></p>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/muzamilahmed26?theme=unicorn)
+<p>
+    <a href="https://leetcode.com/u/muzamilahmed26/">
+    <img src="https://leetcard.jacoblin.cool/muzamilahmed26?theme=unicorn&ext=heatmap">
+    </a>
+    <br>
+    <a href="assets/50daysproof.png">
+    <img src="assets/50days.png" height="100"></a>
+</p>
+
+<h2 style="color:#e8df7a; display: flex; align-items: center;">
+    <a href="https://github.com/Muzamil-Ahmed-Bhayo" style="display: inline-flex; align-items: center; text-decoration: none;">
+        <img src="assets/github_social media_icon.png" height="40" style="vertical-align: middle; margin-right: 8px;"></a>
+        <span style="color:#e8df7a; font-size: 1.5em; vertical-align: middle;">GitHub Stats:</span>
+
+    
+</h2>
+<p>
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Muzamil-Ahmed-Bhayo&theme=omni&hide_border=true&sideNums=e8df7a&fire=e8df7a&dates=e8df7a"><br>
+    <img src="https://github-readme-stats-ten-olive-80.vercel.app/api/top-langs/?username=Ahtisham-1214&theme=omni&include_all_commits=true&count_private=true&hide_border=true&layout=donut&custom_title=Muzamil's%20Most%20Used%20Languages&text_color=e8df7a"><img src="https://github-readme-stats-ten-olive-80.vercel.app/api?username=Muzamil-Ahmed-Bhayo&show_icons=f&line_height=30&rank_icon=github&theme=omni&hide_border=true&text_color=e8df7a"><br>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Muzamil-Ahmed-Bhayo&theme=omni&exclude={}" width="33%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Muzamil-Ahmed-Bhayo&theme=omni&exclude={exclude}" width="33%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Muzamil-Ahmed-Bhayo&theme=omni&utcOffset=+5" width="33%"><br>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muzamil-Ahmed-Bhayo&theme=omni" width="100%">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muzamil-Ahmed-Bhayo&point=e8df7a&title_color=ff7ac7&bg_color=191622&line=ff7ac7&hide_border=true&area=true&area_color=e8df7a&color=e8df7a">
+    <p align="center"><img src="assets/snakegridtitle.gif" width="500" ></p>
+    <img src="https://raw.githubusercontent.com/Muzamil-Ahmed-Bhayo/Muzamil-Ahmed-Bhayo/snake/github-snake-dark.svg" width="100%"><br>
+    <img src="https://raw.githubusercontent.com/Muzamil-Ahmed-Bhayo/Muzamil-Ahmed-Bhayo/output-3d-contrib/profile-green-dual.svg" alt="3D Contributions"/>
+</p>
+
+
+
