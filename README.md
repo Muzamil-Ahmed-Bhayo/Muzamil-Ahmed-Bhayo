@@ -7,11 +7,10 @@
 
 <h3 align="left">A passionate Artificial Intelligence Engineer from Pakistan.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muzamil-ahmed-bhayo&label=Profile%20views&color=0e75b6&style=flat" alt="Muzamil-Ahmed-Bhayo" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muzamil-ahmed-bhayo&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Muzamil-Ahmed-Bhayo" alt="muzamil-ahmed-bhayo" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Muzamil-Ahmed-Bhayo" alt=""></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [Speech to Text](https://github.com/Muzamil-Ahmed-Bhayo/PythonProject.git)
 
@@ -29,11 +28,6 @@
 
 - ⚡ Fun fact **I speak Python more fluently than some human languages.**
 
-- <!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -59,19 +53,19 @@
     <a href="https://github.com/Muzamil-Ahmed-Bhayo" style="display: inline-flex; align-items: center; text-decoration: none;">
         <img src="assets/github_social media_icon.png" height="40" style="vertical-align: middle; margin-right: 8px;"></a>
         <span style="color:#e8df7a; font-size: 1.5em; vertical-align: middle;">GitHub Stats:</span>
-
-    
 </h2>
 <p>
     <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Muzamil-Ahmed-Bhayo&theme=omni&hide_border=true&sideNums=e8df7a&fire=e8df7a&dates=e8df7a"><br>
-    <img src="https://github-readme-stats-ten-olive-80.vercel.app/api/top-langs/?username=Ahtisham-1214&theme=omni&include_all_commits=true&count_private=true&hide_border=true&layout=donut&custom_title=Muzamil's%20Most%20Used%20Languages&text_color=e8df7a"><img src="https://github-readme-stats-ten-olive-80.vercel.app/api?username=Muzamil-Ahmed-Bhayo&show_icons=f&line_height=30&rank_icon=github&theme=omni&hide_border=true&text_color=e8df7a"><br>
+    <img src="https://github-readme-stats-ten-olive-80.vercel.app/api/top-langs/?username=Muzamil-Ahmed-Bhayo&theme=omni&include_all_commits=true&count_private=true&hide_border=true&layout=donut&custom_title=Muzamil's%20Most%20Used%20Languages&text_color=e8df7a"><img src="https://github-readme-stats-ten-olive-80.vercel.app/api?username=Muzamil-Ahmed-Bhayo&show_icons=f&line_height=30&rank_icon=github&theme=omni&hide_border=true&text_color=e8df7a"><br>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Muzamil-Ahmed-Bhayo&theme=omni&exclude={}" width="33%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Muzamil-Ahmed-Bhayo&theme=omni&exclude={exclude}" width="33%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Muzamil-Ahmed-Bhayo&theme=omni&utcOffset=+5" width="33%"><br>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muzamil-Ahmed-Bhayo&theme=omni" width="100%">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muzamil-Ahmed-Bhayo&point=e8df7a&title_color=ff7ac7&bg_color=191622&line=ff7ac7&hide_border=true&area=true&area_color=e8df7a&color=e8df7a">
-    <p align="center"><img src="assets/snakegridtitle.gif" width="500" ></p>
-    <img src="https://raw.githubusercontent.com/Muzamil-Ahmed-Bhayo/Muzamil-Ahmed-Bhayo/snake/github-snake-dark.svg" width="100%"><br>
-    <img src="https://raw.githubusercontent.com/Muzamil-Ahmed-Bhayo/Muzamil-Ahmed-Bhayo/output-3d-contrib/profile-green-dual.svg" alt="3D Contributions"/>
-</p>
+    <img src="assets/snakegridtitle.gif" width="500">
+    <div align="center">
+    <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+    </div></p>
+
+<p><img src="assets/profile-night-green.svg" width="100%"></p>
 
 
 
