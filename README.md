@@ -7,9 +7,9 @@
 
 <h3 align="left">A passionate Artificial Intelligence Engineer from Pakistan.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muzamil-ahmed-bhayo&label=Profile%20views&color=0e75b6&style=flat" alt="muzamil-ahmed-bhayo" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muzamil-ahmed-bhayo&label=Profile%20views&color=0e75b6&style=flat" alt="Muzamil-Ahmed-Bhayo" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muzamil-ahmed-bhayo" alt="muzamil-ahmed-bhayo" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Muzamil-Ahmed-Bhayo" alt="muzamil-ahmed-bhayo" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -53,9 +53,6 @@
     <a href="https://leetcode.com/u/muzamilahmed26/">
     <img src="https://leetcard.jacoblin.cool/muzamilahmed26?theme=unicorn&ext=heatmap">
     </a>
-    <br>
-    <a href="assets/50daysproof.png">
-    <img src="assets/50days.png" height="100"></a>
 </p>
 
 <h2 style="color:#e8df7a; display: flex; align-items: center;">
